@@ -58,6 +58,7 @@ EFI for HP Pavilion 15 cs0xxx for Hackintosh Sonoma-Sequoia
 
 * Haven't tested yet
   * Continuity services
+  * SD Card Reader
 
  # Issues
 
