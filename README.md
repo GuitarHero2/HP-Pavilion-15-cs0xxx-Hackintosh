@@ -53,4 +53,4 @@ EFI for HP Pavilion 15 cs0xxx for Hackintosh Sonoma-Sequoia
 
 # Before you use it
 
-Before you use this EFI, remember to use (GenSMBios)[https://github.com/corpnewt/GenSMBIOS] to generate the SMBios. For now I used the MacBookPro16,3 but I will be testing with more in the future.
+Before you use this EFI, remember to use [GenSMBios](https://github.com/corpnewt/GenSMBIOS) to generate the SMBios. For now I used the MacBookPro16,3 but I will be testing with more in the future.
