@@ -47,13 +47,14 @@ EFI for HP Pavilion 15 cs0xxx for Hackintosh Sonoma-Sequoia
   * HDMI Video Output
   * HDMI Audio Output
   * iPad Extended Screen Mirroring (Tested with and iPad 9 through USB-C)
+  * Jack Combo Audio
+  * Speakers 
 
 * What doesn't work
   * dGPU
   * In-build Camera
-  * Speakers
   * HP IR Camera (This might be the cause why the camera itself doesn't work)
-  * Jack audio
+  * Airdrop
 
 * Haven't tested yet
   * Continuity services
