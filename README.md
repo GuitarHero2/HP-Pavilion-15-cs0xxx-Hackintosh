@@ -45,6 +45,7 @@ EFI for HP Pavilion 15 cs0xxx for Hackintosh Sonoma-Sequoia
   * Wake on Lid
   * HDMI Video Output
   * HDMI Audio Output
+  * iPad Extended Screen Mirroring (Tested with and iPad 9 through USB-C)
 
 * What doesn't work
   * dGPU
@@ -55,6 +56,11 @@ EFI for HP Pavilion 15 cs0xxx for Hackintosh Sonoma-Sequoia
 
 * Haven't tested yet
   * Continuity services
+
+ # Issues
+
+ * iPad Extended Screen Mirroring is a little buggy. When you try to disconnect the iPad to only use the in-build screen, this last one remains black and you  will have to restart your laptop to fix it.
+ * Any other issue found.
  
 
 # Before you use it
