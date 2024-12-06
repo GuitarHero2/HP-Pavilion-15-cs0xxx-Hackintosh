@@ -9,7 +9,7 @@ EFI for HP Pavilion 15 cs0xxx for Hackintosh Sonoma-Sequoia
 | Product Name  | HP Pavilion - 15-cs0003no |
 | CPU  | Intel(R) Core(TM) i7-8550U 2GHz  |
 | iGPU  | Intel UHD Graphics 620 |
-| dGPU  | NVIDIA GeForce MX150 2GB (Disabled) |
+| dGPU  | NVIDIA GeForce MX150 2GB (Disabled through -wegnoegpu) |
 | RAM   | 8GB DDR4 2400MHz (2x4) |
 | Storage  | M.2 256GB SSD Toshiba KBG30ZMV256G |
 | WIFI & Bluetooth  | Intel Dual Band Wireless-AC7265 |
