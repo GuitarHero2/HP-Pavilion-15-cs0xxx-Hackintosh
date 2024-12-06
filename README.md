@@ -31,6 +31,10 @@ EFI for HP Pavilion 15 cs0xxx for Hackintosh Sonoma-Sequoia
   * iGPU
   * Trackpad (With gestures)
   * Keyboard with FN Keys (F12, F4 and F1 doesn't work)
+  * F2 and F3 Brightness keys
+  * F5 Keyboard light key
+  * F6, F7 and F8 Volume control keys
+  * F9, F10 and F11 Multimedia Control
   * All USB ports
   * Wifi Card (Only up to Sonoma, for Sequoia change the wifi Kext for Itlwm.kext + HeliPort)
   * Bluetooth
@@ -39,16 +43,18 @@ EFI for HP Pavilion 15 cs0xxx for Hackintosh Sonoma-Sequoia
   * Ethernet
   * Sleep
   * Wake on Lid
+  * HDMI Video Output
+  * HDMI Audio Output
 
 * What doesn't work
+  * dGPU
   * In-build Camera
   * Speakers
   * HP IR Camera (This might be the cause why the camera itself doesn't work)
+  * Jack audio
 
 * Haven't tested yet
   * Continuity services
-  * Jack audio
-  * HDMI
  
 
 # Before you use it
