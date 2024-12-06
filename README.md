@@ -22,6 +22,7 @@ EFI for HP Pavilion 15 cs0xxx for Hackintosh Sonoma-Sequoia
 | External Ports  | 2 USB 3.1 Gen 1; HDMI 1.4; 1 Headphone/Microphone combo; 1 USB 3.1 Type-C Gen 1 |
 | Expantion Ports  | 1 multi-format SD media card reader |
 | Mac SMBios  | MacBookPro16,3 |
+| OpenCore Version  | OpenCore 1.0.2 |
 
 
 
